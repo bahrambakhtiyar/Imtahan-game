@@ -2,10 +2,10 @@ from random import *
 f = open("tarix_s.txt", encoding="utf-8")
 
 
-def random_list(listin_adi, listin_olcusu):
-    for i in range(listin_olcusu):
+def random_list(listin_adi, bash,son):
+    for i in range(son-bash+1):
         while True:
-            x = randint(1, listin_olcusu)
+            x = randint(bash, son)
             if not x in listin_adi:
                 listin_adi.append(x)
                 break
@@ -18,10 +18,12 @@ print("Her dogru cavaba gore 1 xal qazanir, \nYanlis cavaba gore ise 1 xal itiri
 print("Oyun 2021-2022-ci il tarix suallarinin ilk 348-ni ehate edir")
 print("Lakin oyuncu nece sual uzre oynamaq istediyini ozu sece biler")
 n = int(input("Ilk sualin nomresini qeyd edin: "))
-m=int(input("Son sualin nomresini qeyd edin: "))
+m = int(input("Son sualin nomresini qeyd edin: "))
+
 a = []
 xal = 0
-random_list(a, n)
+random_list(a, n,m)
+print(a)
 lines = f.readlines()
 suals = 1
 for i in a:
@@ -34,7 +36,7 @@ for i in a:
     print(f"{suals}.{sual}")
     dogru_cavab = 0
     b = []
-    random_list(b, 5)
+    random_list(b, 1,5)
     z = 0
     for j in b:
         h = (i-1)*6+j
