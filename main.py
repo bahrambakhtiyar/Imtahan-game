@@ -23,7 +23,7 @@ m = int(input("Son sualin nomresini qeyd edin: "))
 a = []
 xal = 0
 random_list(a, n,m)
-print(a)
+# print(a)
 lines = f.readlines()
 suals = 1
 for i in a:
