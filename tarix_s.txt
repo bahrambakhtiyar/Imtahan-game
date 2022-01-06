@@ -396,7 +396,7 @@ t Mirhvan
 t I Vaçaqan
 67. Ərəblər dövründə hərbiçilərə verilən torpaq mülkiyyət forması necə adlanırdı:
 t mülk
-s İqta
+s iqta
 t camaat
 t xass
 t divan
