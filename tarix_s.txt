@@ -650,7 +650,7 @@ t Cəlairilər, Ağqoyunlular
 t Əhməd xana
 t Abaqa xana
 s Qazan xana
-t tHülaki xana
+t Hülaki xana
 t Arqun xana
 110. Monqol canişinlərinin, xüsusilə Arqun ağanın Azərbaycanda həyata keçirdiyi siyasətin əsas mahiyyəti:
 t Vergiləri artırmaq
@@ -774,7 +774,7 @@ t I İbrahimin
 t Keykavusun
 130. Ağqoyunlu – Trabzon münasibətlərinə aid deyildir:1)Tərəflər Osmanlı sultanı II Mehmetlə ticarət əlaqələri yaratdılar.2)Ağqoyunlu tacirləri Qara dənizə Trabzon vasitəsi ilə çıxırdılar.3)Ağqoyunlu ordusu üçün odlu silah, xüsusilə artileriya silahları istehsalı Trabzonda təşkil edilmişdir. 4)Aralarında qohumluq əlaqələri yaranmışdı. 5)Ağqoyunlu tacirləri Venesiya və Genuya, habelə digər avropalı tacirlərlə Trabzon vasitəsilə geniş ticarət əlaqələri aparırdılar.6)Osmanlı sultanı Səlimə qarşı mübarizə aparmaq üçün ittifaq yaratmışdılar.
 t 3,4,5
-s 1, 3,6
+s 1,3,6
 t 2,3,6
 t 1,2,5
 t 2,4,5
@@ -947,7 +947,7 @@ t 1555- 1597- ci illərdə
 t 1542- 1544- cü illərdə
 t 1535- 1537- ci illərdə
 159. Azərbaycan sultan III Muradın ordusu tərəfindən zəbt edilmişdir:
-t 1568-1570- ci illərdə
+t 1568- 1570- ci illərdə
 t 1572- 1579-cu illərdə
 s 1586- 1589- cu illərdə
 t 1580- 1585- ci illərdə

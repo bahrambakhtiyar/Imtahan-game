@@ -2,7 +2,7 @@ from random import *
 f = open("tarix_s.txt", encoding="utf-8")
 
 
-def random_list(listin_adi, bash,son):
+def random_list(listin_adi, bash, son):
     for i in range(son-bash+1):
         while True:
             x = randint(bash, son)
@@ -14,7 +14,7 @@ def random_list(listin_adi, bash,son):
 print("Tarix oyununa xos gelmissiniz")
 print("Oyunun qaydalari cox sadedir")
 print("Oyuncuya suallar verilir ve oyuncu bu suallari cavablandirir.")
-print("Her dogru cavaba gore 1 xal qazanir, \nYanlis cavaba gore ise 1 xal itirirsiniz")
+print("Her dogru cavaba gore 1 xal qazanirsiniz")
 print("Oyun 2021-2022-ci il tarix suallarinin ilk 348-ni ehate edir")
 print("Lakin oyuncu nece sual uzre oynamaq istediyini ozu sece biler")
 n = int(input("Ilk sualin nomresini qeyd edin: "))
@@ -22,7 +22,7 @@ m = int(input("Son sualin nomresini qeyd edin: "))
 
 a = []
 xal = 0
-random_list(a, n,m)
+random_list(a, n, m)
 # print(a)
 lines = f.readlines()
 suals = 1
@@ -36,7 +36,7 @@ for i in a:
     print(f"{suals}.{sual}")
     dogru_cavab = 0
     b = []
-    random_list(b, 1,5)
+    random_list(b, 1, 5)
     z = 0
     for j in b:
         h = (i-1)*6+j
@@ -45,7 +45,13 @@ for i in a:
         if cavab[0] == 's':
             dogru_cavab = z
         z += 1
-    ist_cavab = int(input("Cavabi daxil edin: "))
+    alfab = True
+    while alfab:
+        alfab = False
+        try:
+            ist_cavab = int(input("Cavabi daxil edin: "))
+        except ValueError:
+            alfab = True
     if ist_cavab == dogru_cavab:
         print("DOGRUDUR!")
         xal += 1
