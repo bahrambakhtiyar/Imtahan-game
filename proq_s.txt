@@ -1,0 +1,2094 @@
+1. Aşağidakilardan hansi python redaktor pəncərəsində Format menyusunun alt bölməsidir?
+• Check module
++ Format paragraph
+• Run
+• Find
+• Run module
+2. Aşağidakilardan hansi python redaktor pəncərəsində Run menyusunun alt bölməsidir?
+• Format paragraph
++ Check module
+• About IDLE
+• Turtle Demo
+• Help
+3. Aşağidakilardan hansi python redaktor pəncərəsində Run menyusunun alt bölməsidir?
+• Cut
++ Run module
+• Past
+• Find
+• Copy
+4. Aşağidakilardan hansi python redaktor pəncərəsinin menyusudur?
+• Debug
++ Run
+• Next history
+• Previos history
+• Shell
+5. Aşağidakilardan hansi python redaktor pəncərəsinin menyusudur?
+• Debug
++ Format
+• Next history
+• Previos history
+• Shell
+6. İDLE pəncərəsindən açilmiş Python redaktoru neçə menyudan ibarətdir?
+• 8
++ 7
+• 6
+• 5
+• 9
+7. Aşağidakilardan hansi İDLE pəncərəsində Shell menyusunun alt bölməsidir?
+• Print Window
++ View Last Reastart
+• Open
+• Save as
+• Save
+8. Aşağidakilardan hansi İDLE pəncərəsində Shell menyusunun alt bölməsidir?
+• Print Window
++ Restart Shell
+• Open
+• Save as
+• Save
+9. Aşağidakilardan hansi İDLE pəncərəsində Shell menyusunun alt bölməsidir?
+• Cut
++ Previos history
+• Past
+• Find
+• Copy
+10. Aşağidakilardan hansi İDLE pəncərəsində Shell menyusunun alt bölməsidir?
+• Cut
++ Next history
+• Past
+• Find
+• Copy
+11. Aşağidakilardan hansi İDLE pəncərəsində Edit menyusunun alt bölməsidir?
+• Next history
++ Find
+• About IDLE
+• Turtle Demo
+• Previos history
+12. Aşağidakilardan hansi İDLE pəncərəsində Edit menyusunun alt bölməsidir?
+• About IDLE
++ Past
+• Restart Shell
+• View Last Reastart
+• Turtle Demo
+13. Aşağidakilardan hansi İDLE pəncərəsində Edit menyusunun alt bölməsidir?
+• Next history
++ Copy
+• Restart Shell
+• View Last Reastart
+• Previos history
+14. Aşağidakilardan hansi İDLE pəncərəsində Edit menyusunun alt bölməsidir?
+• Previos history
+• Restart Shell
+• View Last Reastart
+• Configure IDLE
++ Cut
+15. Aşağidakilardan hansi İDLE pəncərəsində File menyusunun alt bölməsidir?
+• Configure IDLE
++ Save as
+• Restart Shell
+• View Last Reastart
+• Previos history
+16. Aşağidakilardan hansi İDLE pəncərəsində File menyusunun alt bölməsidir?
+• Next history
++ Open
+• About IDLE
+• Turtle Demo
+• Previos history
+17. Aşağidakilardan hansi İDLE pəncərəsində File menyusunun alt bölməsidir?
+• About IDLE
++ Save
+• Restart Shell
+• View Last Reastart
+• Turtle Demo
+18. Aşağidakilardan hansi İDLE pəncərəsində File menyusunun alt bölməsidir?
+• Next history
++ Print Window
+• Restart Shell
+• View Last Reastart
+• Previos history
+19. Aşağidakilardan hansi İDLE pəncərəsində Help menyusunun alt menyusudur?
+• Configure IDLE
++ Turtle Demo
+• Restart Shell
+• View Last Reastart
+• Previos history
+20. Aşağidakilardan hansi İDLE pəncərəsində Help menyusunun alt menyusudur?
+• Print Window
++ About IDLE
+• Open
+• Save as
+• Save
+21. Aşağidakilardan hansi İDLE pəncərəsinin menyusudur?
+• Open
++ Help
+• Next history
+• Previos history
+• About IDLE
+22. Aşağidakilardan hansi İDLE pəncərəsinin menyusudur?
+• Open
+• Print Window
+• Save
++ Window
+• About IDLE
+23. Aşağidakilardan hansi İDLE pəncərəsinin menyusudur?
+• Configure IDLE
++ Options
+• Restart Shell
+• View Last Reastart
+• Previos history
+24. Aşağidakilardan hansi İDLE pəncərəsinin menyusudur?
+• Next history
++ Debug
+• Save
+• Open
+• Previos history
+25. Aşağidakilardan hansi İDLE pəncərəsinin menyusudur?
+• Next history
++ Shell
+• Restart Shell
+• View Last Reastart
+• Previos history
+26. Aşağidakilardan hansi İDLE pəncərəsinin menyusudur?
+• Cut
++ Edit
+• Past
+• Find
+• Copy
+27. Aşağidakilardan hansi İDLE pəncərəsinin menyusudur?
+• Save as
+• Open
++ File
+• Save
+• Print Window
+28. İDLE pəncərəsindən yeni python redaktoru fayli yaratmaq üçün hansi isti düymələrdən istifadə etmək lazimdir?
+• CTRL+O
++ CTRL+N
+• CTRL+SHİFT+S
+• ALT+SHİFT+S
+• CTRL+S
+29. İDLE pəncərəsindən yeni python redaktoru fayli yaratmaq üçün nə etmək lazimdir?
+• File-Open əmrini seçmək lazimdir
++ File-New file əmrini seçmək lazimdir
+• File-Save as əmrini seçməklazimdir
+• Recent Files əmrini seçməklazimdir
+• File-Save əmrini seçmək lazimdir
+30. İDLE pəncərəsi neçə menyudan ibarətdir?
+• 8
++ 7
+• 6
+• 5
+• 9
+31. R dili kim tərəfindən yaradilmişdir
+• Guido van Rossum
++ Robert Gentelmen və Ross İhaka
+• Bjarne Stroustrup və Robert Gentelmen
+• Guido van Rossum və James Gosling
+• James Gosling
+32. Alqoritm nədir?
+• Məsələnin şərtlərinin qrafik təsviri
++ Verilmiş məsələnin həlli üçün yerinə yetirilən əməliyyatlar ardicilliği
+• Verilənlərin blok - sxem vastəsi ilə təsviri
+• Yerinə yetirilən məsələnin quruluşu
+• Verilənlərin cədvəl şəklində təsviri
+33. Alqoritmin qrafik təsviri necə adlanir?
+• Proqram
++ Blok - sxem
+• Söz
+• Diaqram
+• Təbii dil
+34. Python proqramlaşdirma dilinin əsas proqram pəncərəsinin adi nədir?
+• Sublime
++ İDLE
+• VisualStudio
+• Ecilips
+• Netbeans
+35. Aşağidakilardan hansi python proqramlaşdirma dilində bir neçə sətir şərh bildirmək üçün hansi işarədən istifadə edilir?
+• /* */
++ """ """"
+• //* *//
+• !* *!
+• // //
+36. Aşağidakilardan hansi python proqramlaşdirma dilində tək sətir şərh bildirmək üçün hansi işarədən istifadə edilir?
+• @
++ #
+• //
+• /
+• !
+37. Python proqramlaşdirma dilinin son verisyasi hansidir?
+• 3,10,3
++ 3,9,1
+• 3,4,5
+• 3,7,7
+• 3,7,7
+38. Aşağidakilardan hansi proqramlaşdirma dilidir?
+• MySQL
++ Swift
+• HTML
+• JQUERY
+• ORACLE
+39. Aşağidakilardan hansi proqramlaşdirma dilidir?
+• ORACLE
++ PHP
+• Sublime
+• Netbeans
+• HTML
+40. Aşağidakilardan hansi proqramlaşdirma dilidir?
+• MySQL
++ C
+• HTML
+• JQUERY
+• ORACLE
+41. Aşağidakilardan hansi proqramlaşdirma dilidir?
+• ORACLE
++ C#
+• Sublime
+• Netbeans
+• HTML
+42. Python dilində yazilmiş fayllar üçün Windows genişlənməsi hansidir?
+• .pythn
++ .py
+• .pyt
+• .pt
+• .p
+43. Qiyməti rəqəm olaraq 5-ə bərabər olan dəyişən hansidir?
+• x = integer(5)
++ x = 5
+• x=str(5)
+• x=numericl(5)
+• X=float(5)
+44. Hansi dəyişən adinin sintaksisi doğru deyil?
+• _myvar
++ my-var
+• my_var
+• myvar
+• Myvar
+45. Python dilində şərh (comment) interpretator tərəfindən necə qəbul edilir?
++ İqnor edilir
+• Birbaşa icra olunur
+• Sonda icra olunur
+• Əvvəldə icra olunur
+• Silinir
+46. Python dilində şərh (comment) yazilma sintaksisi necədir?
+• /*This
++ #This
+• !This
+• *This
+• /This
+47. "Hello World" Python-da necə hansi sintaksislə yazilir?
+• p("Hello World")
++ print("Hello World")
+• echo "Hello World"
+• p.out "Hello World"
+• echo("Hello World");
+48. Aşağidakilardan hansi proqramlaşdirma dilidir?
+• Sublime
++ R
+• ORACLE
+• HTML
+• Netbeans
+49. Aşağidakilardan hansi proqramlaşdirma dilidir?
+• Sublime
++ C++
+• ORACLE
+• HTML
+• Netbeans
+50. Aşağidakilardan hansi proqramlaşdirma dilidir?
+• ORACLE
++ Java
+• Sublime
+• Netbeans
+• HTML
+51. Aşağidakilardan hansi proqramlaşdirma dilidir?
+• MySQL
++ Python
+• HTML
+• JQUERY
+• ORACLE
+52. Python proqramlaşdirma dili hansi genişlənmədən ibarətdir?
+• ppt
++ py
+• cp
+• php
+• jar
+53. Python proqramlaşdirma dili kim tərəfindən yaradilmişdir
+• James Gosling
++ Guido van Rossum
+• Robert Gentelmen
+• Ross İhaka
+• Bjarne Stroustrup
+54. Python proqramlaşdirma dili neçənci ildə yaradilmişdir?
++ 1990
+• 1991
+• 1992
+• 1993
+• 1988
+55. ceil() funksiyasi nə üçün istifadə edilir?
+• tam ədəd tipinə keçmək üçün
++ həqiqi ədədi yuxari ən yaxin ədədə yuvarlaqlaşdirmaq üçün
+• ədədlərin içindən ən kiçiyini tapmaq üçün
+• sətrin uzunluğunu tapmaq üçün
+• sətir tipinə keçmək üçün
+56. round() funksiyasi nə üçün istifadə edilir?
+• tam ədəd tipinə keçmək üçün
++ ədədi yuvarlaqlaşdirmaq üçün
+• ədədlərin içindən ən kiçiyini tapmaq üçün
+• sətrin uzunluğunu tapmaq üçün
+• sətir tipinə keçmək üçün
+57. float() funksiyasi nə üçün istifadə edilir?
+• tam ədəd tipinə keçmək üçün
++ həqiqi ədəd tipinə keçmək üçün
+• ədədlərin içindən ən kiçiyini tapmaq üçün
+• sətrin uzunluğunu tapmaq üçün
+• sətir tipinə keçmək üçün
+58. str() funksiyasi nə üçün istifadə edilir?
+• ədədlərin içindən ən kiçiyini tapmaq üçün
++ sətir tipinə keçmək üçün
+• həqiqi ədəd tipinə keçmək üçün
+• tam ədəd tipinə keçmək üçün
+• sətrin uzunluğunu tapmaq üçün
+59. int() funksiyasi nə üçün istifadə edilir?
+• sətir tipinə keçmək üçün
++ tam ədəd tipinə keçmək üçün
+• ədədlərin içindən ən kiçiyini tapmaq üçün
+• sətrin uzunluğunu tapmaq üçün
+• həqiqi ədəd tipinə keçmək üçün
+60. input() funksiyasi nə üçün istifadə edilir?
+• dəyişənin tipini tapmaq üçün
++ xaricdən qiymət daxil etmək üçün
+• ədədlərin içindən ən kiçiyini tapmaq üçün
+• sətrin uzunluğunu tapmaq üçün
+• ədədlərin içindən ən böyüyünü tapmaq üçün
+61. type() funksiyasi nə üçün istifadə edilir?
+• ədədlərin içindən ən böyüyünü tapmaq üçün
++ dəyişənin tipini tapmaq üçün
+• sətrin uzunluğunu tapmaq üçün
+• xaricdən qiymət daxil etmək üçün
+• ədədlərin içindən ən kiçiyini tapmaq tapmaq üçün
+62. len() funksiyasi nə üçün istifadə edilir?
+• dəyişənin tipini tapmaq üçün
++ sətrin uzunluğunu tapmaq üçün
+• ədədlərin içindən ən kiçiyini tapmaq üçün
+• xaricdən qiymət daxil etmək üçün
+• ədədlərin içindən ən böyüyünü tapmaq üçün
+63. min() funksiyasi nə üçün istifadə edilir?
+• sətrin uzunluğunu tapmaq üçün
++ ədədlərin içindən ən kiçiyini tapmaq üçün
+• ədədlərin içindən ən böyüyünü tapmaq üçün
+• xaricdən qiymət daxil etmək üçün
+• dəyişənin tipini tapmaq üçün
+64. max() funksiyasi nə üçün istifadə edilir?
+• ədədlərin içindən ən kiçiyini tapmaq tapmaq üçün
++ ədədlərin içindən ən böyüyünü tapmaq üçün
+• dəyişənin tipini tapmaq üçün
+• xaricdən qiymət daxil etmək üçün
+• sətrin uzunluğunu tapmaq üçün
+65. Python proqramlaşdirma dilində "from math import * " edildikdən sonra proqram kodunun nəticəsi nə olacaq? a,b,c=144,256,625; print(int(sqrt(a)),int(sqrt(c)),int(sqrt(b)))
+• 25 36 81
++ 12 25 16
+• 25 6 81
+• 81 25 36
+• 9 6 5
+66. Proqram kodunda hansi alqoritm təsvir edilmişdir: a=4; b=5; c=4; s=sqrt(p*(p-a)*(p-b)*(p-c)); print(s)
+• kvadratin sahəsinin tapilmasi
++ üçbucaqin sahəsinin tapilmasi
+• üçbucaqin perimetrinin tapilmasi
+• kvadratin perimetrinin tapilmasi
+• düzbucaqlinin sahəsinin tapilmasi
+67. Python proqramlaşdirma dilində "from math import * " edildikdən sonra proqram kodunun nə olacaq?a,b,c=144,256,625; print(int(sqrt(a)),int(sqrt(b)),int(sqrt(c)))
+• 25 36 81
++ 12 16 25
+• 25 6 81
+• 81 25 36
+• 9 6 5
+68. Python proqramlaşdirma dilində "from math import * " edildikdən sonra proqram kodunun nə olacaq? a,b,c=25,36,81; print(int(sqrt(a)),int(sqrt(b)),int(sqrt(c)))
+• 25 36 81
++ 5 6 9
+• 25 6 81
+• 81 25 36
+• 9 6 5
+69. sqrt() funksiyasi nə üçün istifadə edilir?
+• qüvvətə yüksəltmək üçün
++ Kvadrat kökün tapilmasi üçün
+• ədədi ortanin tapilmasi üçün
+• Cəmin tapilmasi üçün
+• modulun tapilamsi üçün
+70. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq :a=b=c=d=pow(4,5); print(a%2,b%4,c//8,d//16)
+• 128 0 0 64
++ 0 0 128 64
+• 512 256 0 0
+• 0 512 256 0
+• 0 0 64 128
+71. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq :a=b=c=d=pow(4,6); print(a%2,b%4,c//8,d//16)
+• 0 0 256 512
++ 0 0 512 256
+• 512 256 0 0
+• 0 512 256 0
+• 512 0 256 0
+72. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq : a=b=c=d=pow(2,10); print(a%2,b%4,c//8,d//16)
+• 128 0 0 64
++ 0 0 128 64
+• 64 128 0 0
+• 128 0 64 0
+• 0 0 64 128
+73. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq : a=26; b=24; d=pow(abs(b-a),a%b); print(pow(d,4))
+• 196
++ 256
+• 394
+• 625
+• 225
+74. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq : a=12; b=24; d=pow(abs(b-a),b//a); print(d//12)
+• 24
++ 12
+• 8
+• 36
+• 6
+75. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq : a=26; b=24; d=pow(abs(b-a),a%b); print(d)
+• 8
++ 4
+• 1
+• 16
+• 2
+76. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq : a=12; b=24; d=pow(abs(b-a),b//a); print(d)
+• 196
++ 144
+• 96
+• 256
+• 88
+77. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq : a=46; b=24; d=pow(abs(b-a),b//a); print(d)
+• 2
++ 1
+• 4
+• 0
+• 3
+78. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq :a=12; b=18; d=pow(abs(b-a),b//a); print(d)
+• 12
+• 144
+• 36
++ 6
+• 18
+79. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq : print(pow(2,10),";",pow(10,2))
+• 1024 ; 1000
++ 1024 ; 100
+• 1000 ; 100
+• 1020 ; 100
+• 1024 ; 10
+80. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq : print(pow(2,10))
++ 1024
+• 210
+• 20
+• 100
+• 1020
+81. pow() funksiyasi nə üçün istifadə edilir?
+• modulun tapilamsi üçün
+• Kvadrat kökün tapilmasi üçün
+• Cəmin tapilmasi üçün
++ qüvvətə yüksəltmək üçün
+• ədədi ortanin tapilmasi üçün
+82. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq: c=17;d=23;c=abs(c-d); print(abs(d)%c)
+• 6
+• 11
++ 5
+• 4
+• 2
+83. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq: c=17;d=23;c=abs(c-d); print(d+c)
+• 23
++ 29
+• 40
+• 17
+• 30
+84. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq: c=8;d=11;print(abs(c*c-d*d),";" ,abs(d-c))
+• 3 ; 3
+• 57 ; 57
+• 3 ; 57
+• 53 ; 3
++ 57 ; 3
+85. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq: c=17;d=23;print(abs(c-d*3-c*4),";" ,abs(d-c))
+• 120 ; 120
+• 10 ; 120
+• 120 ; 10
++ 120 ; 6
+• 6 ; 6
+86. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq: c=17;d=23;print(abs(c-d*3-c*4))
+• 110
+• 185
+• 95
++ 120
+• 130
+87. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq: c=12;d=20;print(abs(c-d*3-c*4))
+• 72
+• 24
++ 96
+• 36
+• 106
+88. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq: print(abs(-12+6-24*3))
+• 12
++ 78
+• -36
+• 24
+• 64
+89. Python proqramlaşdirma dilində proqram kodunun nəticəsi nə olacaq: print(abs(-12))
+• 10
+• -12
+• 14
+• 16
++ 12
+90. abs() funksiyasi nə üçün istifadə edilir?
+• Kvadrat kökün tapilmasi üçün
+• ədədi ortanin tapilmasi üçün
+• Cəmin tapilmasi üçün
++ modulun tapilamsi üçün
+• qüvvətə yüksəltmək üçün
+91. Python proqramlaşdirma dilində funksiyanin yaradilmasinda hansi açar sözdən istifadə edilir?
+• if
+• in
+• range
++ def
+• for
+92. Proqramlaşdirma dilində funksiya nədir?
+• Şərti yerinə yetirən opertorlar
+• Massivlərin ən böyük elementini tapan alqoritmlər
++ müəyyən bir fəaliyyəti yerinə yetirən adlanmiş əmrlər ardicilliği
+• Siyahilari çap edən operatorlar
+• Dövrü yerinə yetirən operator
+93. Hansi funksiya rəsm çəkmə sahəsini tənzimləyir?
+• degrees ()
++ clear ()
+• tracer (flag)
+• fill(flag)
+• write ('sətir' )
+94. max(''yardim edin '') ifadəsinin çixişi necədir?
++ y
+• m
+• boşluq
+• e
+• n
+95. Python kodunda sintaksis xəta nə zaman avtomatik üzə çixir ?
+• compile zamani
+• intrepretasiya zamani
+• yadda saxlama zamani
++ yazilma zamani
+• test zamani
+96. Bu kodun çixişi necə olacaq? x = 2; y = 10; x * = y * x+ 1;
+• 41
++ 42
+• 38
+• 37
+• 39
+97. Bu ifadənin çixişi necə olaca? 33 == 33.0
+• False
++ True
+• heç biri
+• 33.0 olacaq
+• 33
+98. Tam ədədi səkkizlik say sistemindəki ədədə çevirən funksiya hansidir?
+• bin(x)
++ oct(x)
+• int(x)
+• write ('x' )
+• hex(x)
+99. Tam ədədi onaltiliq say sistemindəki ədədə çevirən funksiya hansidir?
+• bin(x)
++ hex(x)
+• int(x)
+• write ('x' )
+• oct(x)
+100. Tam ədədi ikilik say sistemindəki ədədə çevirən funksiya hansidir?
+• hex(x)
++ bin(x)
+• int(x)
+• write ('x' )
+• oct(x)
+101. Məntiqi verilən olaraq X və Y-in hər ikisinin qiyməti birdirsə X and Y-in qiymətini müəyyənləşdirin
+• 0
++ 1
+• 2
+• 20
+• 10
+102. Qələmin işarəsini görünüb görünməməsini təmin edən funksiya hansidir?
+• degrees ()
++ tracer (flag)
+• backward(n)
+• forward(n)
+• write ('sətir' )
+103. Qələmin caari mövqeyində mətn yazan funksiya hansidir?
+• degrees ()
++ write ('sətir' )
+• backward(n)
+• tracer(flag)
+• forward(n)
+104. Çəkilmiş oblasti rəngləyən funksiya hansidir?
+• tracer(flag)
++ fill(flag)
+• forward(n)
+• circle (r ,k)
+• degrees ()
+105. Hansi funksiya r radiuslu qövs çəkməyi təmin edir?
+• forward(n)
++ circle (r ,k)
+• degrees ()
+• tracer(flag)
+• backward(n)
+106. Hansi funksiya r radiuslu çevrə çəkməyi təmin edir?
+• degrees ()
++ circle (r)
+• forward(n)
+• backward(n)
+• tracer(flag)
+107. Hansi funksiya qələmin saat əqrəbinin əksi istiqamətində göstərilmiş addim qədər dönməsini təmin edir?
+• right (k)
++ left (k)
+• backward(n)
+• goto(x, y)
+• forward(n)
+108. Hansi funksiya qələmin saat əqrəbi istiqamətində göstərilmiş addim qədər dönməsini təmin edir?
+• left (k)
++ right (k)
+• backward(n)
+• goto(x, y)
+• forward(n)
+109. Hansi funksiya qrafik modulda qələmin geri hərəkətini təmin edir?
+• forward(n)
++ backward(n)
+• goto(x, y)
+• tracer(flag)
+• width(n)
+110. Bunlardan hansi turtle modulunun funksiyasidir?
+• upper()
++ tracer(flag)
+• split()
+• replace()
+• len()
+111. Bunlardan hansi turtle modulunun funksiyasidir?
+• upper()
+• replace()
+• split()
++ right (k)
+• len()
+112. Bunlardan hansi turtle modulunun funksiyasidir?
+• replace()
+• split()
++ forward(n)
+• upper()
+• len()
+113. Bunlardan hansi turtle modulunun funksiyasidir?
++ backward(n)
+• len()
+• upper()
+• split()
+• replace()
+114. Hansi funksiya qrafik modulda qələmin irəli hərəkətini təmin edir?
+• tracer(flag)
++ forward(n)
+• backward(n)
+• width(n)
+• goto(x, y)
+115. Hansi funksiya qrafik modulda qələmin qalinliğini dəyişir?
+• fill(flag)
+• backward(n)
+• goto(x, y)
++ width(n)
+• tracer(flag)
+116. Hansi funksiya qrafik modulda qələmin rəngini dəyişir?
+• goto(x, y)
++ color ('rəng')
+• tracer(flag)
+• fill(flag)
+• width(n)
+117. Hansi funksiya qrafik modulda qələmin koordinantlarini dəyişir?
+• backward(n)
++ goto(x, y)
+• tracer(flag)
+• width(n)
+• fill(flag)
+118. Hansi funksiya qrafik modulda qələmin endirilməsini təmin edir?
+• penup()
++ pendown()
+• fill(flag)
+• tracer(flag)
+• backward(n)
+119. Hansi funksiya qrafik modulda qələmin qaldirilmasini təmin edir?
+• forward(n)
++ penup()
+• fill(flag)
+• tracer(flag)
+• backward(n)
+120. Massivi siyahiya çevirən funksiya hansidir?
+• array.tofile(f)
++ array.tolist()
+• array.pop(i)
+• array.index(x)
+• array.insert(n, x)
+121. Massivi açiq fayla yazan funksiya hansidir?
+• array.insert(n, x)
++ array.tofile(f)
+• array.index(x)
+• array.remove(x)
+• array.pop(i)
+122. Hansi funksiya massivdəki elemetlərin tərs düzülüşünü təmin edir?
+• array.insert(n, x)
++ array.reverse()
+• array.index(x)
+• array.remove(x)
+• array.pop(i)
+123. X-in massivə birinci dəfə daxil edilməsini təmin edən funksiya necə adlanir?
+• array.fromlist(siyahi)
++ array.index(x)
+• array.pop(i)
+• array.remove(x)
+• array.insert(n, x)
+124. Elementlərin siyahidan daxil edilməsini təmin edən funksiya necə adlanir?
+• array.index(x)
++ array.fromlist(siyahi)
+• array.pop(i)
+• array.remove(x)
+• array.insert(n, x)
+125. Hansi funksiya baytlar massivindən array massivi düzəldir
+• array.itemsize
++ array.frombytes(b)
+• array.buffer_info()
+• array.byteswap()
+• array.append(x)
+126. Elementlərin obyektdən massivə əlavə olunmasini təmin edən funksiya necə adlanir?
+• array.itemsize
++ array.extend(iter)
+• array.buffer_info()
+• array.byteswap()
+• array.append(x)
+127. Verilənin massivdə neçə dəfə yerdəşdiyini tapan funksiya hansidir?
+• array.itemsize
++ array.count(x)
+• array.buffer_info()
+• array.byteswap()
+• array.append(x)
+128. Hansi funksiya massivin hər bir elementində baytlarin gəlmə ardicilliği dəyişir?
+• array.itemsize
++ array.byteswap()
+• array.buffer_info()
+• array.count(x)
+• array.append(x)
+129. Hansi funksiya massivin sonuna element elave edir?
+• array.itemsize
++ array.append(x)
+• array.byteswap()
+• array.count(x)
+• array.buffer_info()
+130. Massivdə bir elementin baytlarla ölçüsü hansi funksiya vasitəsilə yerinə yetirilir?
+• array.append(x)
++ array.itemsize
+• array.byteswap()
+• array.count(x)
+• array.buffer_info()
+131. Bucağin ölçü vahidini radianla götürülməsini təmin edən funksiya hansidir?
+• degrees ()
++ radians ()
+• fill(flag)
+• width(n)
+• tracer(flag)
+132. Dövrü dayandirma əmri hansidir?
+• fallout
+• exit
+• return
++ break
+• stop
+133. Pythonda dövr yazilmasinin başlanğic sintaksisi necədir?
+• for loop x in y:
+• for x > y:
+• for each x in y:
++ for x in y:
+• for while x in y:
+134. Pythonda dövr yazilmasinin başlanğic sintaksisi necədir?
+• while {x > y}
+• while x > y {
+• x > y while
++ while x > y:
+• while (x > y)
+135. Python şərt opretoru necə başlayir?
+• if x > y else:
+• if (x > y
+• if x > y then:
++ if x > y:
+• if x > y while:
+136. Python müqaisə operatoru hansidir?
+• (<>)
++ (!=)
+• (=)
+• (==)
+• (><)
+137. Proqram kodunun nəticəsi nə olacaq? fruits = ["apple", "banana", "cherry", "kiwi", "mango"];newlist = ['hello' for x in fruits];print(newlist)
+• ['hello', 'hello', 'hello', 'hello']
+• ['hello', 'hello', 'hello', 'hello', 'hello','hello']
+• ['hello', 'hello', ]
++ ['hello', 'hello', 'hello', 'hello', 'hello']
+• ['hello', 'hello', 'hello']
+138. Proqram kodunun nəticəsi nə olacaq? fruits = ["apple", "banana", "cherry", "kiwi", "mango"];newlist = [x.upper() for x in fruits];print(newlist)
+• ['APPLE', 'CHERRY', 'KIWI', 'MANGO']
+• ['APPLE', 'BANANA', 'KIWI', 'MANGO']
+• [ 'BANANA', 'CHERRY', 'KIWI', 'MANGO']
++ ['APPLE', 'BANANA', 'CHERRY', 'KIWI', 'MANGO']
+• ['APPLE', 'BANANA', 'CHERRY', 'KIWI']
+139. Proqram kodunun nəticəsi nə olacaq? newlist = [ x for x in range(2,5)] ;print(newlist)
+• 3 4 5
+• 2 3 4 5
+• [2, 3, 4, 5]
+• [4 2 5]
++ [2, 3, 4]
+140. Proqram kodunun nəticəsi nə olacaq? newlist = [ x for x in range(5)] ;print(newlist)
+• [0, 1, 2, 3, 4, 5]
+• [ 1, 2, 3, 4, 5]
+• 0 1 2 3 4 5
++ [0, 1, 2, 3, 4]
+• 1 2 3 4 5
+141. Proqram kodunun nəticəsi nə olacaq? newlist = [ x for x in range(10) if x < 5] ;print(newlist)
+• [ 1, 2, 3, 4,5]
+• [0, 1, 2, 3, 4,5]
+• 1 2 3 4 5
++ [0, 1, 2, 3, 4]
+• 0 1 2 3 4 5
+142. Proqram kodunun nəticəsi nə olacaq? newlist = [ x for x in range(10) if x < 7] ;print(newlist)
+• [1, 2, 3, 4, 5, 6]
+• 0, 1, 2, 3, 4, 5, 6, 7
+• [0, 1, 2, 3, 4, 5, 6, 7]
++ [0, 1, 2, 3, 4, 5, 6]
+• 0, 1, 2, 3, 4, 5, 6
+143. Proqram kodunun nəticəsi nə olacaq? for i in range(10,15,3):print(i,end=" ")
+• 15 11
+• 13 15
++ 10 13
+• 11 12 13
+• 10 13 15
+144. Proqram kodunun nəticəsi nə olacaq? for i in "Apple":print(i,end="*")
+• *Apple*
+• A*p*p*l*e
+• *Ap*ple*
+• *A*p*p*l*e
++ A*p*p*l*e*
+145. Proqram kodunun nəticəsi nə olacaq? for i in range(10,15):print(i,end=" ")
+• 11 12 13 14
++ 10 11 12 13 14
+• 10 11 12 13 14 15
+• 10 11 12 13 14 15 16
+• 2 13 14
+146. Proqram kodunun nəticəsi nə olacaq? for i in range(10,14):print(i,end=" ")
+• 11 12 13 14 15
+• 10 11 12 13 14 15
++ 10 11 12 13
+• 10 11 12 13 14
+• 11 12 13
+147. Proqram kodunun nəticəsi nə olacaq? for i in range(4):print(i,end="")
+• 3210
+• 4
++ 123
+• 1234
+• 1234
+148. Pythonda massiv yaratmaq üçün istifadə olunan modul hansidir?
++ array
+• time
+• random
+• sys
+• turtle
+149. Verilmiş intervaldan tesadüfi sürüşkən vergüllü ədədin seçilməsini təmin edən funksiya hansidir?
+• random.randint(A, B)
+• random.random()
+• random.sample(population, k)
++ random.uniform(A, B)
+• random.randrange(start, stop, step)
+150. 0 və 1 arasinda təsadüfi ədədin seçilməsini təmin edən funksiya hansidir?
+• random.uniform(A, B)
+• random.sample(population, k)
+• random.randrange(start, stop, step)
+• random.randint(A, B)
++ random.random()
+151. Verilmiş ardicilliqdan elan olunmuş uzunluqda təsadüfi siyahi yaradan funksiya hansidir?
+• random.randrange(start, stop, step)
++ random.sample(population, k)
+• random.random()
+• random.uniform(A, B)
+• random.randint(A, B)
+152. Ardicilliğin dəyişməsini(qarişdirilmasini) təmin edən funksiya hansidir?
+• random.random()
+• random.randrange(start, stop, step)
+• random.randint(A, B)
++ random.shuffle(sequence, [rand])
+• random.uniform(A, B)
+153. Boş olmayan ardicilliqdan təsadüfi ədədin seçilməsini təmin edən funksiya hansidir?
+• random.uniform(A, B)
+• random.random()
+• random.randrange(start, stop, step)
+• random.randint(A, B)
++ random.choice(sequence)
+154. Verilmiş intervaldan tesadüfi tam ədədin seçilməsini təmin edən funksiya hansidir?
+• random.choice(sequence)
+• random.random()
+• random.randrange(start, stop, step)
+• random.uniform(A, B)
++ random.randint(A, B)
+155. Ardicilliqdan təsadüfi ədədin seçilməsini təmin edən funksiya hansidir?
+• random.random()
+• random.randint(A, B)
+• random.choice(sequence)
++ random.randrange(start, stop, step)
+• random.uniform(A, B)
+156. Təsadüfi bit qaytaran funksiya hansidir?
+• random.random()
+• random.randint(A, B)
++ random.getrandbits(N)
+• random.choice(sequence)
+• random.uniform(A, B)
+157. Bunlardan hansi random modulunun funksiyasidir?
+• upper()
+• goto(x, y)
+• penup()
++ random.randrange(start, stop, step)
+• pendown()
+158. Bunlardan hansi random modulunun funksiyasidir?
+• upper()
+• penup()
+• goto(x, y)
++ random.randint(A, B)
+• pendown()
+159. Bunlardan hansi random modulunun funksiyasidir?
+• pendown()
+• upper()
+• goto(x, y)
+• penup()
++ random.getstate()
+160. Bunlardan hansi random modulunun funksiyasidir?
+• upper()
+• pendown()
++ random.setstate(state)
+• penup()
+• goto(x, y)
+161. Generatorun daxili vəziyyətini bərpa edən funksiya hansidir?
+• random.choice(sequence)
+• random.random()
+• random.randint(A, B)
+• random.getstate()
++ random.setstate(state)
+162. Generatorun daxili vəziyyətini müəyyən edən funsiya hansidir?
+• random.random()
+• random.randint(A, B)
+• random.setstate(state)
++ random.getstate()
+• random.choice(sequence)
+163. Təsadüfi ədədlərin, hərflərin generasiya edilməsi, ardicilliğin elementlərinin təsadüfi seçilməsi funksiyalarini təqdim edən modul hansidir?
+• turtle
+• array
+• sys
++ random
+• time
+164. Python proqramlaşdirma dilində dəyişən adi ola bilər:
+• %
++ _
+• ?
+• /
+• !
+165. Python proqramlaşdirma dilində dəyişən adi ola bilər:
+• deyisen%
++ deyi3sen
+• .3deyisen
+• .%deyisen
+• 3deyisen%
+166. Python proqramlaşdirma dilində dəyişən adi ola bilər:
+• 3soyad
++ soyad
+• %soyad
+• 2.%soyad
+• .3soyad
+167. Proqram kodunun nəticəsi nə olacaq: m=122; n=5; z=23; m%=10; z%=10;n%=2; print(m,n,z,m+n+z)
+• 7 0 4 11
++ 2 1 3 6
+• 8 0 7 15
+• 3 0 3 6
+• 9 0 9 20
+168. Məntiqi verilən olaraq X-in qiyməti bir, Y-in qiyməti sifirdirsa X and Y-in qiymətini müəyyənləşdirin.
+• 1
++ 0
+• 10
+• 20
+• 2
+169. İfadənin çixişi necədir: 3*1**3
+• 64
++ 3
+• 9
+• 4
+• 27
+170. Hansi ifadənin çixişinda a dəyişəni 2-ə bərabər olur?
+• int a=2
++ a=2
+• a==2
+• var a=2
+• variable a=2
+171. Aşağidakilardan hansi Python-da üstlü qüvvət yazilişi zamani istifadə edilir?
+• X
++ X**y
+• X^^y
+• X#y
+• X^y
+172. Məntiqi verilən olaraq X-in qiyməti bir, Y-in qiyməti sifirdirsa X or Y-in qiymətini müəyyənləşdirin.
+• 0
++ 1
+• 10
+• 20
+• 2
+173. Məntiqi verilən olaraq X-in qiyməti birdirsə notX-in qiymətini müəyyənləşdirin.
+• 1
++ 0
+• 10
+• 20
+• 2
+174. Məntiqi verilən olaraq X-in qiyməti sifirdirsa notX-in qiymətini müəyyənləşdirin.
+• 0
++ 1
+• 10
+• 20
+• 2
+175. Proqram kodunun nəticəsi nə olacaq: m=29; n=5; z=87; m%=10; z%=10;n%=2; print(m,n,z,m+n+z)
+• 9 0 9 18
++ 9 1 7 17
+• 9 0 9 20
+• 8 0 7 15
+• 7 0 4 11
+176. Proqram kodunun nəticəsi nə olacaq: m=39; n=6; z=79; m%=10; z%=10;n%=2; print(m,n,z,m+n+z)
+• 7 0 4 11
++ 9 0 9 18
+• 8 0 7 15
+• 3 0 3 6
+• 9 0 9 20
+177. Proqram kodunun nəticəsi nə olacaq: m=123; n=10; z=23; m%=10; z%=10;n%=2; print(m,n,z,m+n+z)
+• 9 0 9 20
+• 9 0 9 18
+• 7 0 4 11
++ 3 0 3 6
+• 8 0 7 15
+178. Proqram kodunun nəticəsi nə olacaq: m=128; n=4; z=17; m%=10; z%=10;n%=2; print(m,n,z,m+n+z)
++ 8 0 7 15
+• 9 0 9 18
+• 3 0 3 6
+• 9 0 9 20
+• 7 0 4 11
+179. Proqram kodunun nəticəsi nə olacaq: m=69; n=8; z=49; m%=10; z%=10;n%=2; print(m,n,z,m+n+z)
+• 7 0 4 11
+• 8 0 7 15
+• 3 0 3 6
++ 9 0 9 18
+• 9 0 9 18
+180. Proqram kodunun nəticəsi nə olacaq: m=47; n=10; z=24; m%=10; z%=10;n%=2; print(m,n,z,m+n+z)
+• 9 0 9 20
+• 9 0 9 18
+• 8 0 7 15
++ 7 0 4 11
+• 3 0 3 6
+181. Proqram kodunun nəticəsi nə olacaq: y=24; x=32; y*=x; x//=4 ; print(x+y//2)
+• 6
+• 390
+• 56
++ 392
+• 60
+182. Proqram kodunun nəticəsi nə olacaq: y=8; x=8; y*=x; x//=4 ; print(x+y//2)
+• 21
+• 15
+• 11
+• 20
++ 34
+183. Proqram kodunun nəticəsi nə olacaq: y=6; x=5; y+=10; x+=y; print(x+y)
+• 20
+• 11
++ 37
+• 21
+• 15
+184. Proqram kodunun nəticəsi nə olacaq: y=8; x=8; y+=10; x+=y; print(x+y)
++ 44
+• 110
+• 121
+• 21
+• 220
+185. Proqram kodunun nəticəsi nə olacaq: y=10; x=11; y+=10; x+=y; print(x+y)
+• 15
+• 11
+• 20
++ 51
+• 21
+186. Proqram kodunun nəticəsi nə olacaq: y=10; x=11; s=x**2+y**2; print(s)
+• 220
+• 110
+• 121
++ 221
+• 21
+187. Proqram kodunun nəticəsi nə olacaq: y=3; x=4; s=x**2+y**2; print(s)
+• 16
+• 9
+• 4
++ 25
+• 36
+188. Proqram kodunun nəticəsi nə olacaq: n=12456;a=n//10000;b=n//100%10; m=a*10+b; print(m)
++ 14
+• 12
+• 15
+• 16
+• 10
+189. Proqram kodunun nəticəsi nə olacaq: a=20; b=30; c=b;b=a;a=c; print(a*a-b)
+• 580
+• 600
+• 370
++ 880
+• 570
+190. Proqram kodunun nəticəsi nə olacaq: a,b=2,10;s=2**10;print(s)
++ 1024
+• 580
+• 600
+• 370
+• 570
+191. Proqram kodunun nəticəsi nə olacaq: a=10;b=2;s=a**b+a;print(s)
+• 12
+• 10**2+10
+• a**b+a
++ 110
+• 100
+192. Proqram kodunun nəticəsi nə olacaq: n=123; a=n//100;b=n//10%10; c=n%10; print(a,b,c)
+• 3 2 1
+• 123
+• 321
++ 1 2 3
+• 3 1 2
+193. Proqram kodunun nəticəsi nə olacaq: a=5; b=6; s=(a+b)*(b-a+1)//2; print(s)
+• 30
+• 14
+• 1
++ 11
+• 10
+194. Proqram kodunun nəticəsi nə olacaq: a=17; b=12;s=a*b; print(s)
++ 204
+• 200
+• 194
+• 104
+• 304
+195. Proqram kodunun nəticəsi nə olacaq: n=456; a=n//100;b=n//10%10; c=n%10; print(a*a,b*b,c*c)
+• 25 36 16
++ 16 25 36
+• 16 36 25
+• 25 16 36
+• 36 25 16
+196. Proqram kodunun nəticəsi nə olacaq: n=456; a=n//100;b=n//10%10; c=n%10; print(b*b,a*a,c*c)
+• 36 25 16
+• 16 25 36
+• 25 36 16
++ 25 16 36
+• 16 36 25
+197. Proqram kodunun n'ticəsi nə olacaq? import math;print(int(pow(sqrt(min(4,6,7,13))+round(4.5),2)))
+• 16
+• 128
+• 64
+• 32
++ 36
+198. Proqram kodunun n'ticəsi nə olacaq? import math;print(int(pow(min(4,6,7,13)+round(4.5),2)))
+• 32
+• 8
+• 128
++ 64
+• 16
+199. Proqram kodunun n'ticəsi nə olacaq? import math;print(min(4,6,7,13)+round(4.5))
+• 9
+• 4
+• 10
++ 8
+• 8,5
+200. Proqram kodunun n'ticəsi nə olacaq? import math;print(ceil(4.0)+round(4.5))
+• 6,5
+• 9
+• 8,5
+• 6,0
++ 8
+201. Proqram kodunun n'ticəsi nə olacaq? import math;print(ceil(4.0)+round(4.5))
+• 4
+• 9
+• 8,5
++ 8
+• 10
+202. Proqram kodunun n'ticəsi nə olacaq? >>> import math;print(math.ceil(4.2)+round(4.3))
+• 8,5
+• 8
+• 10
++ 9
+• 4
+203. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
++ yield
+• With
+• Yield
+• Raise
+• While
+204. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• Try
+• NOT
+• OR
++ with
+• Pass
+205. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• IN
+• From
+• For
++ while
+• IF
+206. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• With
+• Raise
+• While
+• Yield
++ try
+207. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• Try
+• OR
+• NOT
++ raise
+• Pass
+208. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
++ pass
+• IF
+• IN
+• For
+• From
+209. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• While
+• Raise
+• Yield
+• With
++ or
+210. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• Try
+• OR
+• NOT
++ not
+• Pass
+211. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• IF
+• IN
+• For
+• From
++ nonlocal
+212. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• Del
++ lambda
+• Def
+• Continue
+• Elif
+213. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• NOT
++ in
+• Pass
+• Try
+• OR
+214. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• For
++ import
+• IF
+• IN
+• From
+215. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• Continue
++ if
+• Del
+• Elif
+• Def
+216. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• NOT
++ global
+• Pass
+• Try
+• OR
+217. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• For
++ from
+• IF
+• IN
+• From
+218. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• Continue
++ for
+• Del
+• Elif
+• Def
+219. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• NOT
++ except
+• Pass
+• Try
+• OR
+220. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• For
++ else
+• IF
+• IN
+• From
+221. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• Continue
++ elif
+• Del
+• Elif
+• Def
+222. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• Continue
++ def
+• Del
+• Elif
+• Def
+223. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• Continue
++ continue
+• Del
+• Elif
+• Def
+224. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
++ as
+• Del
+• Elif
+• Def
+• As
+225. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• And
++ and
+• As
+• none
+• Or
+226. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• none
++ None
+• Or
+• As
+• And
+227. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• soyad
++ 2.%soyad
+• soy3ad
+• soy3_ad
+• soy_ad
+228. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• python3py
++ python.py1
+• pythonpy_
+• pythonpy_
+• pythonpy
+229. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• python3py
++ python?py1
+• pythonpy_
+• pythonpy_
+• pythonpy
+230. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• python3py
++ python%py1
+• pythonpy_
+• pythonpy_
+• pythonpy
+231. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• python3py
++ python@py
+• pythonpy_
+• pythonpy_
+• pythonpy
+232. Python proqramlaşdirma dilində dəyişən adi ola bilər:
+• python@py
++ python_py
+• python?py1
+• python.py1
+• python%py1
+233. Python proqramlaşdirma dilində dəyişən adi ola bilər:
+• ad?
++ _10
+• ad_soyad%
+• 1soyad
+• soyad_%
+234. Python proqramlaşdirma dilində dəyişən adi ola bilməz:
+• Continue
++ del
+• Del
+• Elif
+• Def
+235. Proqram kodunun nəticəsi nə olacaq? a=[10,12,'Arif',103,'Cemil']; print(a[4])
+• 10
+• Arif
+• 103
++ Cemil
+• 12
+236. Proqram kodunun nəticəsi nə olacaq? a=[10,12,'Arif',103,'Cemil']; print(a[2])
+• 12
+• Cemil
+• 10
++ Arif
+• 103
+237. Python proqramlaşdirma dilində elementlər neçənci indeksdən başliyir?
+• 1
+• 4
+• 3
++ 0
+• 2
+238. Python proqramlaşdirma dilində boş siyahi aşağidaki formada yaradilir:
+• adlar=''
+• adlar=""
+• adlar=()
++ adlar=[]
+• adlar={}
+239. Proqram kodunun nəticəsi nə olacaq? a=[10,12,'Arif',103,'Cemil']; print(a[3])
+• 10
+• 12
+• Arif
+• Cemil
++ 103
+240. Proqram kodunun nəticəsi nə olacaq? a=[10,12,'Arif',103,'Cemil']; print(a[1])
+• 10
+• Arif
+• 103
++ 12
+• Cemil
+241. Proqram kodunun nəticəsi nə olacaq? a=[10,12,'Arif',103,'Cemil']; print(a[0])
+• 12
+• Cemil
+• Arif
++ 10
+• 103
+242. Proqram kodunun nəticəsi nə olacaq? thislist = ["Apple", "Banana", "Feijoa","Avocado","Blackcurrant","Blackberries"];thislist.remove("Feijoa");print(thislist)
+• [ 'Feijoa', 'Avocado', 'Blackcurrant']
+• ['Banana', 'Feijoa', 'Avocado', 'Blackcurrant', ]
++ ['Apple', 'Banana', 'Avocado', 'Blackcurrant', 'Blackberries']
+• ['Banana', 'Feijoa', 'Blackcurrant', 'Blackberries']
+• ['Apple', 'Banana', 'Blackcurrant', 'Blackberries']
+243. Proqram kodunun nəticəsi nə olacaq?thislist = ["Apple", "Banana", "Feijoa","Avocado","Blackcurrant","Blackberries"];thislist.remove("Banana");print(thislist)
+• [ 'Feijoa', 'Avocado', 'Blackcurrant']
+• ['Feijoa', 'Avocado', 'Blackcurrant', 'Blackberries']
+• ['Banana', 'Feijoa', 'Blackcurrant', 'Blackberries']
++ ['Apple', 'Feijoa', 'Avocado', 'Blackcurrant', 'Blackberries']
+• ['Banana', 'Feijoa', 'Avocado', 'Blackcurrant', ]
+244. Proqram kodunun nəticəsi nə olacaq? thislist = ["Apple", "Banana", "Feijoa","Avocado","Blackcurrant","Blackberries"];thislist.remove("Apple");print(thislist)
+• ['Feijoa', 'Avocado', 'Blackcurrant', 'Blackberries']
+• [ 'Feijoa', 'Avocado', 'Blackcurrant']
+• ['Banana', 'Feijoa', 'Avocado', 'Blackcurrant', ]
++ ['Banana', 'Feijoa', 'Avocado', 'Blackcurrant', 'Blackberries']
+• ['Banana', 'Feijoa', 'Blackcurrant', 'Blackberries']
+245. Proqram kodunun nəticəsi nə olacaq?thislist = ["apple", "banana", "cherry","Avocado","Blackcurrant","Blackberries"];thislist[:3]=["Cherries"];print(thislist[3])
+• Banana
+• Cherries
+• Avocado
++ Blackberries
+• Blackcurrant
+246. Proqram kodunun nəticəsi nə olacaq?thislist = ["apple", "banana", "cherry","Avocado","Blackcurrant","Blackberries"];thislist[:3]=["Cherries"];print(thislist[2])
++ Blackcurrant
+• Blackberries
+• Banana
+• Avocado
+• Cherries
+247. Proqram kodunun nəticəsi nə olacaq?thislist = ["apple", "banana", "cherry","Avocado","Blackcurrant","Blackberries"];thislist[:3]=["Cherries"];print(thislist[1])
+• Banana
+• Cherries
+• Blackberries
++ Avocado
+• Blackcurrant
+248. Proqram kodunun nəticəsi nə olacaq?thislist = ["apple", "banana", "cherry","Avocado","Blackcurrant","Blackberries"];thislist[:3]=["Cherries"];print(thislist[0])
+• Banana
+• Blackberries
++ Cherries
+• Blackcurrant
+• Avocado
+249. Proqram kodunun nəticəsi nə olacaq?thislist = ["apple", "banana", "cherry","Avocado","Blackcurrant","Blackberries"];thislist[:3]=["Cherries"];print(thislist)
+• ['Cherries', 'cherry', 'Avocado', 'Blackcurrant', 'Blackberries']
+• ["cherry","Avocado",]
+• ['Cherries', 'cherry', 'Blackberries']
++ ['Cherries', 'Avocado', 'Blackcurrant', 'Blackberries']
+• ["apple", "banana", "cherry","Avocado",]
+250. Proqram kodunun nəticəsi nə olacaq? thislist = ["apple", "banana", "cherry","Avocado","Blackcurrant","Blackberries"];thislist[:2]=["Cherries"];print(thislist)
+• ["apple", "banana", "cherry","Avocado",]
+• ["cherry","Avocado",]
+• ['Cherries', 'cherry', 'Blackberries']
++ ['Cherries', 'cherry', 'Avocado', 'Blackcurrant', 'Blackberries']
+• ["apple", "banana", "cherry","Avocado",]
+251. stuff = list();stuff.append('book');stuff.append(99)
+• [99,'book']
+• []
+• [99]
++ ['book', 99]
+• ['book']
+252. Proqram kodunun nəticəsi nə olacaq? reqem=[3,5,7,9,11,12,13,103];reqeq.append(17); print(reqem[0:])
+• [3, 5, 7, 9, 17 12, 13, 103]
+• [17,17,17,17,17,17,17]
+• [17]
++ [3, 5, 7, 9, 11, 12, 13, 103, 17]
+• [17 5, 7, 9, 17 12, 13, 103]
+253. Siyahilarda append() funksiyasi hani işi görür?
+• integer tipinə keçid edir
+• String tipində yaddasda yer ayirir
++ siyahiya element əlavə edir
+• siyahida elementləri yoxluyur
+• siyahidan element silir
+254. a=list() əməliyyati hansi işi görür?
+• integer tipinə keçid edir
+• a dəyişəninin tipini müəyyən edir
++ boş siyahi yaradir
+• String tipində yaddasda yer ayirir
+• a dəyişəninə 0 mənimsədir
+255. Proqram kodunun nəticəsi nə olacaq? reqem=[3,5,7,9,11,12,13,103]; print(reqem[0:])
+• [3, 5, 7]
+• [7, 103]
+• [5, 9, 12]
++ [3, 5, 7, 9, 11, 12, 13, 103]
+• [3, 5, 7, 9, 11]
+256. Proqram kodunun nəticəsi nə olacaq? reqem=[3,5,7,9,11,12,13,103]; print(reqem[2::5])
+• [3, 5, 7, 9, 11, 12, 13, 103]
+• [3, 5, 7, 9, 11]
+• [5, 9, 12]
++ [7, 103]
+• [3, 5, 7]
+257. Proqram kodunun nəticəsi nə olacaq? reqem=[3,5,7,9,11,12,13,103]; print(reqem[:])
+• [3, 5, 7, 9, 11]
+• [7, 103]
+• [3, 5, 7]
+• [5, 9, 12]
++ [3, 5, 7, 9, 11, 12, 13, 103]
+258. Proqram kodunun nəticəsi nə olacaq?reqem=[3,5,7,9,11,12,13,103]; print(reqem[1:7:2])
+• [7, 103]
+• [3, 5, 7]
+• [3, 5, 7, 9, 11]
++ [5, 9, 12]
+• [3, 5, 7, 9, 11, 12, 13, 103]
+259. Proqram kodunun nəticəsi nə olacaq?reqem=[3,5,7,9,11,12,13,103]; print(reqem[7:])
++ [103]
+• [12]
+• [13]
+• [3]
+• [11]
+260. Proqram kodunun nəticəsi nə olacaq?reqem=[3,5,7,9,11,12,13,103]; print(reqem[0:7])
+• [3, 5, 7]
+• [3, 5, 7, 9, 11, 12, 13, 103]
++ [3, 5, 7, 9, 11, 12, 13]
+• [3, 5, 7, 9, 11]
+• [5, 9, 12]
+261. Proqram kodunun nəticəsi nə olacaq?reqem=[3,5,7,9,11,12,13,103]; print(reqem[2:])
+• [3, 5, 7]
+• [5, 9, 12]
++ [7, 9, 11, 12, 13, 103]
+• [3, 5, 7, 9, 11]
+• [3, 5, 7, 9, 11, 12, 13, 103]
+262. Proqram kodunun nəticəsi nə olacaq?reqem=[3,5,7,9,11,12,13,103]; print(reqem[1:3])
+• [11]
+• [13]
+• [103]
+• [3]
++ [5, 7]
+263. Proqram kodunun nəticəsi nə olacaq? reqem=[3,5,7,9,11,12,13,103]; print(reqem[:5])
+• [3, 5, 7]
+• [5, 9, 12]
++ [3, 5, 7, 9, 11]
+• [7, 103]
+• [3, 5, 7, 9, 11, 12, 13, 103]
+264. Proqram kodunun nəticəsi nə olacaq? reqem=[3,5,7,9,11,12,13,103]; print(reqem[:7])
+• [5, 9, 12]
+• [3, 5, 7, 9, 11]
++ [3, 5, 7, 9, 11, 12, 13]
+• [3, 5, 7, 9, 11, 12, 13, 103]
+• [3, 5, 7]
+265. Proqram kodunun nəticəsi nə olacaq? reqem=[3,5,7,9,11,12,13,103]; print(reqem[:3])
+• [3, 5, 7, 9, 11, 12, 13, 103]
+• [5, 9, 12]
+• [3, 5, 7, 9, 11]
++ [3, 5, 7]
+• [5]
+266. Proqram kodunun nəticəsi nə olacaq? reqem=[3,5,7,9,11,12,13,103]; print(reqem[:0])
+• [0]
++ []
+• [4]
+• [5]
+• [3]
+267. Siyahilarda hansi funksiyaya indeks daxil edilmədikdə sonuncu elementi silir?
+• del()
++ pop()
+• clear()
+• remove()
+• insert()
+268. Mətndə bütün simvollari kiçik hərflər keçirtmək üçün hansi funksiyadan istifadə edilir?
+• upper()
++ lower()
+• del()
+• pop()
+• abs()
+269. Mətndə bütün simvollari baş hərflər keçirtmək üçün hansi funksiyadan istifadə edilir?
+• lower()
++ upper()
+• del()
+• pop()
+• abs()
+270. Mətndə simvollarin sayini tapmaq üçün hansi funksiyadan istifadə edilir?
+• upper()
++ len()
+• del()
+• pop()
+• abs()
+271. Kvadrat kökün tapilmasi üçün hansi funksiyadan istifadə edilir?
+• upper()
++ sqrt()
+• del()
+• pop()
+• abs()
+272. Ədədi qüvvətə yüksəltmək üçün hansi funksiyadan istifadə edilir?
+• sqrt()
++ pow()
+• del()
+• pop()
+• abs()
+273. Modulun tapilmasi üçün hansi funksiyadan istifadə edilir?
+• sqrt()
++ abs()
+• del()
+• pop()
+• pow()
+274. Siyahinin sonuna element əlavə edən funksiya hansidir?
+• remove()
++ append()
+• insert()
+• del()
+• clear()
+275. Bunlardan hansi array modulunun funksiyasidir?
+• fill(flag)
++ append()
+• backward(n)
+• forward(n)
+• tracer(flag)
+276. Bunlardan hansi array modulunun funksiyasidir?
+• fill(flag)
++ insert()
+• backward(n)
+• forward(n)
+• tracer(flag)
+277. Bunlardan hansi array modulunun funksiyasidir?
+• fill(flag)
++ remove()
+• backward(n)
+• forward(n)
+• tracer(flag)
+278. Siyahilarda elementə görə silmə hansidir?
+• clear()
++ remove()
+• del()
+• pop()
+• insert()
+279. Siyahilarin bütün elementlərinini silən funksiya hansidir?
+• insert()
++ clear()
+• pop()
+• remove()
+• del()
+280. Siyahilara indeksə görə element əlavə edən funksiya hansidir?
++ insert()
+• remove()
+• del()
+• pop()
+• clear()
+281. Siyahini yaddaşdan silən funksiya hansidir
+• pop()
++ del()
+• clear()
+• remove()
+• insert()
+282. Siyahilardan elementləri indeksə görə silən funksiya hansidir?
+• del()
++ pop()
+• clear()
+• remove()
+• insert()
+283. Proqram kodunun nəticəsi nə olacaq? t = [9, 41, 12, 3, 74, 15];t[1:5:2]
+• [9, 41, 12, 3, 74, 15]
+• [41, 12]
+• [9, 41, 12, 3]
++ [41,3]
+• [3, 74, 15]
+284. Proqram kodunun nəticəsi nə olacaq? t = [9, 41, 12, 3, 74, 15];t[:]
+• [3, 74, 15]
++ [9, 41, 12, 3, 74, 15]
+• [41, 12]
+• [41,3]
+• [9, 41, 12, 3]
+285. Proqram kodunun nəticəsi nə olacaq? >>> t = [9, 41, 12, 3, 74, 15];t[3:]
+• [9, 41, 12, 3, 74, 15]
++ [3, 74, 15]
+• [41, 12]
+• [41,3]
+• [9, 41, 12, 3]
+286. Proqram kodunun nəticəsi nə olacaq? >>> t = [9, 41, 12, 3, 74, 15];t[:4]
+• [9, 41, 12, 3, 74, 15]
++ [9, 41, 12, 3]
+• [41, 12]
+• [41,3]
+• [3, 74, 15]
+287. Proqram kodunun nəticəsi nə olacaq? >>> t = [9, 41, 12, 3, 74, 15];t[1:3]
+• [9, 41, 12, 3, 74, 15]
++ [41, 12]
+• [9, 41, 12, 3]
+• [41,3]
+• [3, 74, 15]
+288. Proqram kodunun nəticəsi nə olacaq? thislist = ["apple", "banana", "cherry"];thislist.insert(3, "orange");print(thislist)
+• ['apple', 'orange', 'banana', 'cherry']
++ ['apple', 'banana', 'cherry', 'orange']
+• [ 'banana', 'orange','cherry']
+• ['apple', 'orange','cherry']
+• ['apple', 'banana', 'orange','cherry']
+289. Proqram kodunun nəticəsi nə olacaq? thislist = ["apple", "banana", "cherry"];thislist.insert(2, "orange");print(thislist)
+• ['apple', 'orange', 'banana', 'cherry']
++ ['apple', 'banana', 'orange', 'cherry']
+• [ 'banana', 'orange','cherry']
+• ['apple', 'orange','cherry']
+• ['apple', 'banana', 'orange','cherry']
+290. Proqram kodunun nəticəsi nə olacaq? thislist = ["apple", "banana", "cherry"];thislist.insert(1, "orange");print(thislist)
+• ['apple', 'banana', 'cherry', 'orange']
++ ['apple', 'orange', 'banana', 'cherry']
+• [ 'banana', 'orange','cherry']
+• ['apple', 'orange','cherry']
+• ['apple', 'banana', 'orange','cherry']
+291. Proqram kodunun nəticəsi nə olacaq? thislist = ["Apple", "Banana", "Feijoa","Avocado","Blackcurrant","Blackberri"]; "Blueberries" in thislist
+• "Null"
++ "False"
+• "0"
+• "True"
+• "Error"
+292. Proqram kodunun nəticəsi nə olacaq? thislist = ["Apple", "Banana", "Feijoa","Avocado","Blackcurrant","Blackberri"]; "Tamarind" in thislist
+• "Null"
++ "False"
+• "0"
+• "True"
+• "Error"
+293. Proqram kodunun nəticəsi nə olacaq? thislist = ["Apple", "Banana", "Feijoa","Avocado","Blackcurrant","Blackberri"]; "Quince" in thislist
+• "True"
+• "Error"
++ "False"
+• "0"
+• "Null"
+294. Proqram kodunun nəticəsi nə olacaq? thislist = ["Apple", "Banana", "Feijoa","Avocado","Blackcurrant","Blackberri"]; "Pomegranate" in thislist
+• "Null"
++ "False"
+• "0"
+• "True"
+• "Error"
+295. Proqram kodunun nəticəsi nə olacaq? thislist = ["Apple", "Banana", "Feijoa","Avocado","Blackcurrant","Blackberri"]; "Plums" in thislist
+• "Null"
++ "False"
+• "0"
+• "True"
+• "Error"
+296. Proqram kodunun nəticəsi nə olacaq? thislist = ["Apple", "Banana", "Feijoa","Avocado","Blackcurrant","Blackberri"]; "Pitanga" in thislist
+• "Null"
++ "False"
+• "0"
+• "True"
+• "Error"
+297. Siyahilarda clear() funksiyasi hani işi görür?
+• indeksə görə element silir
+• element əlavə edir
+• siyahini yaddaşdan silir
++ bütün elementləri silir
+• obyektə görə element silir
+298. Siyahilarda del() funksiyasi hani işi görür?
+• indeksə görə element silir
++ siyahini yaddaşdan silir
+• bütün elementləri silir
+• element əlavə edir
+• obyektə görə element silir
+299. Siyahilarda remove() funksiyasi hani işi görür?
+• bütün elementləri silir
++ obyektə görə element silir
+• siyahini yaddaşdan silir
+• indeksə görə element silir
+• element əlavə edir
+300. Siyahilarda pop() funksiyasi hani işi görür?
+• obyektə görə element silir
++ indeksə görə elementsilir
+• element əlavə edir
+• siyahini yaddaşdan silir
+• bütün elementləri silir
+301. Proqram kodunun nəticəsi nə olacaq?some = [1, 9, 21, 10, 16]; 1 in some
+• "False"
++ "True"
+• "Error"
+• "0"
+• "Null"
+302. Proqram kodunun nəticəsi nə olacaq?some = [1, 9, 21, 10, 16]; 16 in some
+• "False"
++ "True"
+• "Error"
+• "0"
+• "Null"
+303. Proqram kodunun nəticəsi nə olacaq?some = [1, 9, 21, 10, 16]; 10 in some
+• "False"
++ "True"
+• "Error"
+• "0"
+• "Null"
+304. Proqram kodunun nəticəsi nə olacaq?some = [1, 9, 21, 10, 16]; 21 in some
+• "False"
++ "True"
+• "Error"
+• "0"
+• "Null"
+305. Proqram kodunun nəticəsi nə olacaq?some = [1, 9, 21, 10, 16]; 9 in some
+• "False"
++ "True"
+• "Error"
+• "0"
+• "Null"
+306. Proqram kodunun nəticəsi nə olacaq?thislist = ["Apple", "Banana", "Feijoa","Avocado","Blackcurrant","Blackberries"];thislist.pop(4);print(thislist[4])
+• Blackcurrant
++ Blackberries
+• Banana
+• Feijoa
+• Avocado
+307. Proqram kodunun nəticəsi nə olacaq?thislist = ["Apple", "Banana", "Feijoa","Avocado","Blackcurrant","Blackberries"];thislist.pop(2);print(thislist[2])
+• Banana
++ Avocado
+• Blackcurrant
+• Blackberries
+• Feijoa
+308. Proqram kodunun nəticəsi nə olacaq?thislist = ["Apple", "Banana", "Feijoa","Avocado","Blackcurrant","Blackberries"];thislist.pop(1);print(thislist[1])
+• Banana
++ Feijoa
+• Blackcurrant
+• Blackberries
+• Avocado
+309. Proqram kodunun nəticəsi nə olacaq?thislist = ["Apple", "Banana", "Feijoa","Avocado","Blackcurrant","Blackberries"];thislist.pop(0);print(thislist[0])
+• Feijoa
++ Banana
+• Blackcurrant
+• Blackberries
+• Avocado
+310.Proqram kodunun nəticəsi nə olacaq?thislist = ["Apple", "Banana", "Feijoa","Avocado","Blackcurrant","Blackberries"];thislist.remove("Blackberries");print(thislist)
+• ['Feijoa', 'Avocado', 'Blackcurrant', 'Blackberries']
++ ['Apple', 'Banana', 'Feijoa', 'Avocado', 'Blackcurrant']
+• ['Banana', 'Feijoa', 'Avocado', 'Blackcurrant', ]
+• [ 'Feijoa', 'Avocado', 'Blackcurrant']
+• ['Banana', 'Feijoa', 'Blackcurrant', 'Blackberries']
+311. Proqram kodunun nəticəsi nə olacaq? thislist = ["Apple", "Banana", "Feijoa","Avocado","Blackcurrant","Blackberries"];thislist.remove("Blackcurrant");print(thislist)
+• ['Feijoa', 'Avocado', 'Blackcurrant', 'Blackberries']
++ ['Apple', 'Banana', 'Feijoa', 'Avocado', 'Blackberries']
+• ['Banana', 'Feijoa', 'Avocado', 'Blackcurrant', ]
+• [ 'Feijoa', 'Avocado', 'Blackcurrant']
+• ['Banana', 'Feijoa', 'Blackcurrant', 'Blackberries']
+312. Proqram kodunun nəticəsi nə olacaq? thislist = ["Apple", "Banana", "Feijoa","Avocado","Blackcurrant","Blackberries"];thislist.remove("Avocado");print(thislist)
+• ['Feijoa', 'Avocado', 'Blackcurrant', 'Blackberries']
++ ['Apple', 'Banana', 'Feijoa', 'Blackcurrant', 'Blackberries']
+• ['Banana', 'Feijoa', 'Avocado', 'Blackcurrant', ]
+• [ 'Feijoa', 'Avocado', 'Blackcurrant']
+• ['Banana', 'Feijoa', 'Blackcurrant', 'Blackberries']
+313. Sətirlərdən ibarət kodun nəticəsi nə olacaq? a="Azerbaijan State University of Economics"; b=a.split(); print(b[4])
+• Azerbaijan
+• of
+• University
++ Economics
+• State
+314. Sətirlərdən ibarət kodun nəticəsi nə olacaq? a="Azerbaijan State University of Economics"; b=a.split(); print(b[3])
+• Azerbaijan
+• University
+• State
++ of
+• Economics
+315. Sətirlərdən ibarət kodun nəticəsi nə olacaq? a="Azerbaijan State University of Economics"; b=a.split(); print(b[2])
+• State
+• Economics
+• of
++ University
+• Azerbaijan
+316. Sətirlərdən ibarət kodun nəticəsi nə olacaq? a="Azerbaijan State University of Economics"; b=a.split(); print(b[1])
+• Economics
+• of
++ State
+• University
+• Azerbaijan
+317. Sətirlərdən ibarət kodun nəticəsi nə olacaq? a="Azerbaijan State University of Economics"; b=a.split(); print(b[0])
+• State
++ Azerbaijan
+• of x
+• Economics
+• University
+318. Sətirlərdən ibarət kodun nəticəsi nə olacaq? b = "UNEC";print(b[:4])
+• C
+• E
++ UNEC
+• N
+• U
+319. Sətirlərdən ibarət kodun nəticəsi nə olacaq? b = "AZERBAYCAN";print(b[-10:-7])
+• CAN
+• AZERBAYCAN
+• AZER
+• BAY
++ AZE
+320. Sətirlərdən ibarət kodun nəticəsi nə olacaq? b = "Hello, World!";print(b[-10:-7])
+• Hel
+• orl
+• llo
+• ell
++ lo,
+321. Sətirlərdən ibarət kodun nəticəsi nə olacaq?b = "Hello, World!";print(b[-5:-2])
+• llo
+• Hel
+• ell
++ orl
+• ld!
+322. Sətirlərdən ibarət kodun nəticəsi nə olacaq?a = "Hello, World!";print(a[5])
+• l
+• !
+• o
++ ,
+• e
+323. Sətirlərdən ibarət kodun nəticəsi nə olacaq?a = "Hello, World!";print(a[7])
+• l
+• !
+• e
++ W
+• Hel
+324. Sətirlərdən ibarət kodun nəticəsi nə olacaq?a = "Hello, World!";print(a[8])
+• e
+• l
+• o
++ o
+• !
+325. Sətirlərdən ibarət kodun nəticəsi nə olacaq?a = "Hello, World!";print(a[9])
+• o
+• !
++ r
+• e
+• l
+326. Sətirlərdən ibarət kodun nəticəsi nə olacaq?a = "Hello, World!";print(a[4])
+• l
+• e
+• !
++ o
+• ,
+327. Sətirlərdən ibarət kodun nəticəsi nə olacaq?a = "Hello, World!";print(a[2])
+• o
+• ,
+• !
++ l
+• e
+328. Sətirlərdən ibarət kodun nəticəsi nə olacaq?a = "Hello, World!";print(a[1])
+• !
+• ,
+• ,
+• o
++ e
+329. Dəyişənə çoxsayli sətirlər əlavə etmək üçün istifadə olunan kod hansidir?
+• txt=text
+• txt=[text]
+• txt={Text}
++ txt='''Text'''
+• txt=<texet>
+330. Dəyişənə çoxsayli sətirlər əlavə etmək üçün istifadə olunan kod:
+• txt=text
+• txt={Text}
+• txt=[text]
++ txt="""Text"""
+• txt=<texet>
+331. Sətirlərdən ibarət kodun nəticəsi nə olacaq?a = "Hello, World!";print(a[3])
+• ,
++ l
+• o
+• e
+• !
+332. Sətirlərdən ibarət kodun nəticəsi nə olacaq? txt = "I love apples, apple are my favorite fruit"; x = txt.count("apple");print(x)
+• 11
+• 5
++ 2
+• 9
+• 10
+333. Sətirlərdən ibarət kodun nəticəsi nə olacaq? a="Azerbaijan State University of Economics"; b=a.split(); print(len(b[4]))
+• 11
+• 5
++ 9
+• 2
+• 10
+334. Sətirlərdən ibarət kodun nəticəsi nə olacaq? a="Azerbaijan State University of Economics"; b=a.split(); print(len(b[3]))
+• 11
+• 5
++ 2
+• 9
+• 10
+335. Sətirlərdən ibarət kodun nəticəsi nə olacaq? a="Azerbaijan State University of Economics"; b=a.split(); print(len(b[2]))
+• 5
+• 9
++ 10
+• 2
+• 11
+336. Sətirlərdən ibarət kodun nəticəsi nə olacaq? a="Azerbaijan State University of Economics"; b=a.split(); print(len(b[1]))
+• 9
+• 11
+• 10
+• 2
++ 5
+337. Sətirlərdən ibarət kodun nəticəsi nə olacaq? a="Azerbaijan State University of Economics"; b=a.split(); print(len(b[0]))
+• 5
+• 2
++ 10
+• 9
+• 11
+338. Sətirlərdən ibarət kodun nəticəsi nə olacaq? a="Azerbaijan State University of Economics"; b=a.split(); print(len(b))
+• 4
+• 3
++ 5
+• 2
+• 24
+339. Sətirlərdə yerdəyişmə hansi funksiya ilə yerinə yetirilir?
+• upper()
++ replace()
+• lower()
+• len()
+• strip()
+340. Sətirlərdə strip() finksiyasi hansi əməliyyati yerinə yetirir?
+• simvollari birləşdirir
+• simvol əlavə edir
++ kənar boşlulari silir
+• simvollari sayir
+• simvola görə bölür
+341. Sətirlərdə kənar boşluqlari silən funksiya hansidir?
+• lower()
+• len()
++ strip()
+• replace()
+• split()
+342. Sətirləri simvola görə bölən funksiya hansidir?
++ split()
+• replace()
+• len()
+• lower()
+• upper()
+343. Sətirlərdə split() finksiyasi hansi əməliyyati yerinə yetirir?
+• simvollari birləşdirir
+• simvollari sayir
+• simvollari silir
++ simvola görə bölür
+• simvol əlavə edir
+344. Sətirlərdən ibarət kodun nəticəsi nə olacaq? txt = "I love apples, apple are my favorite fruit"; x =txt.count("pp");print(x)
+• 4
+• 1
+• 3
++ 2
+• 5
+345. Sətirlərdən ibarət kodun nəticəsi nə olacaq? txt = "I love apples, apple are my favorite fruit"; x = txt.count("e");print(x)
++ 5
+• 3
+• 2
+• 4
+• 1
+346. Sətirlərdən ibarət kodun nəticəsi nə olacaq? txt = "I love apples, apple are my favorite fruit"; x = txt.count("e");print(x)
+• 3
+• 1
+• 4
+• 2
++ 5
+347. Sətirlərdən ibarət kodun nəticəsi nə olacaq? txt = "I love apples, apple are my favorite fruit"; x = txt.count("apple");print(x)
+• 1
++ 2
+• 5
+• 3
+• 4
+348. Sətirlərdən ibarət kodun nəticəsi nə olacaq? txt = "I love apples, apple are my favorite fruit"; x = txt.count("apple");print(x)
++ 2
+• 4
+• 5
+• 1
+• 3
+349. Sətirlərdən ibarət kodun nəticəsi nə olacaq? txt = "I love apples, apple are my favorite fruit"; x = txt.count("a");print(x)
+• 1
+• 3
++ 4
+• 2
+• 5

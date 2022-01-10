@@ -1,5 +1,5 @@
 from random import *
-f = open("tarix_s.txt", encoding="utf-8")
+f = open("proq_s.txt", encoding="utf-8")
 
 
 def random_list(listin_adi, bash, son):
@@ -15,7 +15,7 @@ print("Tarix oyununa xos gelmissiniz")
 print("Oyunun qaydalari cox sadedir")
 print("Oyuncuya suallar verilir ve oyuncu bu suallari cavablandirir.")
 print("Her dogru cavaba gore 1 xal qazanirsiniz")
-print("Oyun 2021-2022-ci il tarix suallarinin ilk 348-ni ehate edir")
+print("Oyun 2021-2022-ci il proqramlasdima sullarini ehate edir")
 print("Lakin oyuncu nece sual uzre oynamaq istediyini ozu sece biler")
 n = int(input("Ilk sualin nomresini qeyd edin: "))
 m = int(input("Son sualin nomresini qeyd edin: "))
